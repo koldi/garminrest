@@ -1,0 +1,6 @@
+name "garmin"
+description "Garmin trainaing plan creator"
+authors "Gyorgy Katona"
+copyright "Copyright © 2018, Gyorgy Katona"
+license "proprietary"
+dependency "vibe-d" version="~>0.8.4"
